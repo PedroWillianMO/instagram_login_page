@@ -10,7 +10,7 @@ As a customization, dynamism was added to the page using basic JavaScript.
 
 ### :black_circle: Guidelines and use:
 
-You can clone this repository or check the project working [here.](https://pedrowillianmo.github.io/instragram_login_page/)
+You can clone this repository or check the project working [here.](https://pedrowillianmo.github.io/instagram_login_page/)
 
 ### :black_circle:External resources:
 
